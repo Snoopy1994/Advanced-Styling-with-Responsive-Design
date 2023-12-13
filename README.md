@@ -6,12 +6,12 @@ The starter  is provided for you
 as a zip file.  You will need to edit the style.css file to modify the mobile view and add four media queries. You are free to make many personal choices in your submission, but you must fulfill the following requirements:
 
 1. You must replace all of the images from the starter code. Make sure to include alt text.
-2. 
-3. You must replace all of the content in the paragraph tag from the starter code. 
+ 
+2. You must replace all of the content in the paragraph tag from the starter code. 
 
-4. Check your code through the w3validatorand make necessary changes.
+3. Check your code through the w3validatorand make necessary changes.
 
-5. Your mobile view must use a mobile-first approach (so no media queries for the mobile view) and
+4. Your mobile view must use a mobile-first approach (so no media queries for the mobile view) and
 
   a. Use a one column grid with a 10px gap between rows and columns.
 
